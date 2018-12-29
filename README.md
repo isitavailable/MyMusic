@@ -1,4 +1,7 @@
 # MyMusic
+Version: 1.7.8
+  Support online update. 建议安装此版本，方便后续更新.
+
 Version: 1.7.7
   Solved Focus issue for back video.
   
