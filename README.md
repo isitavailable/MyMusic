@@ -1,4 +1,7 @@
 # MyMusic
+Version: 1.7.9
+  Optimize permission management.
+  
 Version: 1.7.8
   Support online update. 建议安装此版本，方便后续更新.
 
